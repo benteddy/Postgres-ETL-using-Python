@@ -22,5 +22,3 @@ After that, we create the table to the database 'movies' by inserting the parame
 This ETL pipeline get the CSV file and transform it based on schema of the table then insert the data to table. This process uses pandas library. Here is the code to insert the data from CSV file to the table.
 
 `python insert_table.py`# postgres-etl-using-python
-# postgres-etl-using-python
-# postgres-etl-using-python
