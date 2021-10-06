@@ -25,5 +25,4 @@ This ETL pipeline get the CSV file and transform it based on schema of the table
 `python insert_table.py`
 
 Here is the view of the inserted table data through the ETL process.<br/><br/>
-
 <img src="Database.png" width="755" height="250">
